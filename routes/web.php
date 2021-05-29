@@ -18,3 +18,4 @@ Route::get('/', function () {
 });
 
 //add new function
+//add 2 function
