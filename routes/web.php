@@ -21,4 +21,8 @@ Route::get('/', function () {
 //add 2 function
 //add 3 function
 //add 4 function
+<<<<<<< HEAD
 //add 6 function
+=======
+//add 5 function
+>>>>>>> 05be2c0446c97817d187591d27fe0a57a7bd3fd4
